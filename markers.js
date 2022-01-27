@@ -1,3 +1,4 @@
+/*
 function marker(){
 
   	var markerContainer = document.getElementById("markers");
@@ -14,3 +15,4 @@ function marker(){
 } 
 
 marker();
+*/
